@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>yuugiri的博客</title>
+  <title>YUUGIRI的博客</title>
   <icon>https://www.gravatar.com/avatar/62cbaeb422fe480cccfadcff0da2690e</icon>
   <subtitle>エロゲームブログ</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-25T04:11:11.309Z</updated>
+  <updated>2019-07-01T08:52:48.549Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,80 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，hexo</title>
-    <link href="http://yoursite.com/2019/06/25/%E4%BD%A0%E5%A5%BD%EF%BC%8Chexo/"/>
-    <id>http://yoursite.com/2019/06/25/你好，hexo/</id>
-    <published>2019-06-25T04:11:11.000Z</published>
-    <updated>2019-06-25T04:11:11.309Z</updated>
+    <title>虫爱少女 汉化project</title>
+    <link href="http://yoursite.com/2019/07/01/%E8%99%AB%E7%88%B1%E5%B0%91%E5%A5%B3/"/>
+    <id>http://yoursite.com/2019/07/01/虫爱少女/</id>
+    <published>2019-07-01T08:49:54.594Z</published>
+    <updated>2019-07-01T08:52:48.549Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><blockquote><h2 id="汉化进度"><a href="#汉化进度" class="headerlink" title="汉化进度"></a>汉化进度</h2></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">            初翻   校对   润色</span><br><span class="line">01          100%</span><br><span class="line">02          100%</span><br><span class="line">03          100%</span><br><span class="line">04          100%</span><br><span class="line">05           30%</span><br><span class="line">06            0%</span><br><span class="line">062           0%</span><br><span class="line">07            0%</span><br><span class="line"></span><br><span class="line">总体进度：60%</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;blockquote&gt;&lt;h2 id=&quot;汉化进度&quot;&gt;&lt;a href=&quot;#汉化进度&quot; class=&quot;headerlink&quot; title=&quot;汉化进度&quot;&gt;&lt;/a&gt;汉化进度&lt;/h2&gt;&lt;/blockquote&gt;
+&lt;figure class=&quot;highli
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>html5 测试</title>
+    <link href="http://yoursite.com/2019/07/01/test/"/>
+    <id>http://yoursite.com/2019/07/01/test/</id>
+    <published>2019-07-01T08:28:40.031Z</published>
+    <updated>2019-07-01T08:49:03.922Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/yuugiri/test1.html" target="_blank"><br><br>    <b>test1</b><br></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;/yuugiri/test1.html&quot; target=&quot;_blank&quot;&gt;&lt;br&gt;&lt;br&gt;    &lt;b&gt;test1&lt;/b&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>戦国の黒百合～ふたなり姫と忍ぶ少女達</title>
+    <link href="http://yoursite.com/2019/07/01/photo/"/>
+    <id>http://yoursite.com/2019/07/01/photo/</id>
+    <published>2019-07-01T06:41:20.640Z</published>
+    <updated>2019-07-01T07:44:54.347Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/07/01/5d19b1b1e1de233050.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/07/01/5d19b1b1e1de233050.jpg" alt></a></p><a id="more"></a><blockquote><blockquote><p>开发: 言葉遊戯<br>平台: pc<br>游戏类型: 戦国ふたなり百合ADV<br>游玩人数: 1<br>发行日期: 2017年7月20日<br>售价: 【DL版】1500円(税別)<br><a href="http://kotobaasobi.dojin.com/sengoku3/" target="_blank" rel="noopener">官方网站</a></p></blockquote></blockquote><h3 id="简介"><a href="#简介" class="headerlink" title="简介:"></a>简介:</h3><p>織田の敗戦をきっかけに自分を見失った朔は、人知れず姿を消した。<br>兄と共に朔を捜し続ける柚々。<br>静かに思いを馳せる蕗。<br>朔の代わりに織田を支えるべく立ち回る濃。<br>消えた朔を案じつつ、彼女達は己の気持ちと向き合っていた。</p><p>織田を去った朔は、とある町にたどり着いていた。<br>ここでなら目的を果たせるかもしれないと目論み、贔屓にしている商人の屋敷に逗留することを決める。</p><p>まるで吸い寄せられるように、朔はそこで一人の少女と出会った。<br>先行きが不安な状況の中、二人は共にいることを望み、互いを求め合う。<br>朔を守り続けてきた蔓と棘だけが、全てを冷静に見据えていた。<br>果たして、忍の少女達はどのように動くのだろうか。</p><p>史実にオリジナルキャラクター等のアレンジを加えた独自のストーリー。<br>戦国ふたなり百合ADV「戦国の黒百合」シリーズ第三章。</p><p>――あなたを、守り抜く。そう誓ったのに……</p><p><a href="https://i.loli.net/2019/07/01/5d19b1b21693487828.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/07/01/5d19b1b21693487828.jpg" alt></a><br><a href="https://i.loli.net/2019/07/01/5d19b1b1d1e8f70062.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/07/01/5d19b1b1d1e8f70062.jpg" alt></a><br><a href="https://i.loli.net/2019/07/01/5d19b1b21b49478643.jpg" target="_blank" rel="noopener"><img src="https://i.loli.net/2019/07/01/5d19b1b21b49478643.jpg" alt></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://i.loli.net/2019/07/01/5d19b1b1e1de233050.jpg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;img src=&quot;https://i.loli.net/2019/07/01/5d19b1b1e1de233050.jpg&quot; alt&gt;&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>J.Q.V人类救济部 汉化project</title>
+    <link href="http://yoursite.com/2019/07/01/jqv-project/"/>
+    <id>http://yoursite.com/2019/07/01/jqv-project/</id>
+    <published>2019-07-01T05:52:12.376Z</published>
+    <updated>2019-07-01T08:50:37.455Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/07/01/5d19b6ba349d510477.jpg" alt></p><a id="more"></a><blockquote><h2 id="汉化进度"><a href="#汉化进度" class="headerlink" title="汉化进度"></a>汉化进度</h2></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">            初翻   校对   润色</span><br><span class="line">Arichive     25%</span><br><span class="line">Arichive      0%</span><br><span class="line">Chapter00   100%</span><br><span class="line">Chapter01   100%</span><br><span class="line">Chapter02   100%</span><br><span class="line">Chapter03   100%</span><br><span class="line">Chapter04   ？%</span><br><span class="line">Chapter05   100%</span><br><span class="line">Chapter06    70%</span><br><span class="line">Chapter07   ？%</span><br><span class="line"></span><br><span class="line">总体进度：60%</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/07/01/5d19b6ba349d510477.jpg&quot; alt&gt;&lt;/p&gt;
     
     </summary>
     

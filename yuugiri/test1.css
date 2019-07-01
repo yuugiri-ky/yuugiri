@@ -1,0 +1,218 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    transition: 1s;
+}
+
+a:link {
+    text-decoration: none;
+    color: #333;
+}
+
+a:visited {
+    text-decoration: none;
+
+
+}
+
+a:hover {
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.body {
+    background: url("https://i.loli.net/2019/07/01/5d19c1b31111079199.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: auto;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+    color: #FFF;
+    font-size: 34px;
+    text-shadow: 0 0 10px #9900FF;
+}
+
+.text {
+    font-family: "黑体";
+    font-size: 50px;
+    opacity: 0;
+}
+
+.snow {
+    background: url("https://i.loli.net/2019/07/01/5d19c8470c81070228.gif");
+    width: 100%;
+    overflow: auto
+}
+
+.contain {
+    background: rgba(255, 255, 255, .6);
+    margin: 60px;
+    padding: 10px;
+    box-shadow: 0 0 10px #000;
+    text-align: center;
+    font-family: '微软雅黑';
+    color: #FFF;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.contain:hover {
+    box-shadow: 0 0 20px #ffffff;
+}
+
+.logo {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 20;
+    height: 50%
+}
+
+.logo:hover {
+    transition: .4s linear;
+    -webkit-transition: .6s ease-out;
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    right: 2%;
+    bottom: 5%;
+    text-shadow: 0 0 10px #000
+}
+
+.try,
+.try1,
+.try2 {
+    opacity: 0.7;
+    box-shadow: 0 0 10px #000;
+    border: 8px outset rgba(153, 153, 153, 1);
+    display: inline-block;
+    height: auto;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.transbox {
+    display: inline-block;
+    perspective: 1000;
+    -webkit-perspective: 1000;
+    position: relative;
+}
+
+.transbox img {
+    height: 320px;
+}
+
+.transbox .img1 {
+    height: 280px;
+}
+
+.transbox:hover .try {
+    opacity: 1;
+    box-shadow: 0 0 50px #000;
+    /*阴影*/
+    z-index: 20;
+    transform: rotate3d(0, 0, 1, 360deg) scale(1.3);
+}
+
+.transbox:hover .try1 {
+    opacity: 1;
+    box-shadow: 0 0 50px #000;
+    /*阴影*/
+    z-index: 20;
+    transform: rotate3d(1, 0, 1, 360deg) scale(1.3);
+    -webkit-transform: rotate3d(1, 0, 1, 360deg) scale(1.3);
+}
+
+.transbox:hover .try2 {
+    opacity: 1;
+    box-shadow: 0 0 50px #000;
+    /*阴影*/
+    z-index: 20;
+    transform: rotate3d(1, 1, 0, 360deg) scale(1.3);
+}
+
+/*按钮框*/
+.down {
+    border: 5px outset #FFF;
+    padding: 5px;
+    border-radius: 10px;
+    color: #000;
+    box-shadow: 0 0 5px #333333;
+    position: relative;
+    z-index: 10;
+    opacity: 0.6;
+}
+
+/*鼠标划过按钮显示特效
+*/
+.down:hover {
+    background: #999;
+    color: #FFF;
+    box-shadow: 0 0 10px #000;
+    border: 5px inset #999;
+    text-shadow: 0 0 2px #0066CC;
+    opacity: 1;
+
+}
+
+/*隐藏文字*/
+.downhint {
+    position: absolute;
+    padding: 3px;
+    padding-left: 10px;
+    color: #000;
+    margin-left: 0;
+    opacity: 0;
+}
+
+/*鼠标划过按钮时显示文字
+downbox没有设置样式，但是html里downbox包含住down
+所以鼠标划过down的时候，也显示downbox，而downhint关联着downbox，*/
+.downbox:hover .downhint {
+    opacity: 1;
+    margin-left: 30px;
+    transform: rotate3d(1, 0, 1, 360deg) scale(1.3);
+    -webkit-transform: rotate32d(1, 0, 1, 360deg) scale(1);
+}
+
+#footer
+
+/*底部*/
+    {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 5px
+}
+
+/*文字内容*/
+.info {
+    position:absolute;
+    padding-top: 5px;
+    top: 0;
+    left: 0;
+    width: auto;
+    height: 900px;
+}
+
+.info:hover .text {
+    font-size: 16px;
+    transition: all 0.3s;
+    opacity: 1;
+    text-shadow: 0 0 5px #000000;
+}
